@@ -4,7 +4,7 @@
 
 <a>copy and paste command:</a>
 ```
-git clone https://github.com/LorezZ1000/dotfiles ;cd dotfiles; sudo apt update -y;sudo apt install dunst rofi picom feh -y;mv rofi dunst picom wallpaper.png ~/.config/ ;cp i3 ~/.config/i3;feh --bg-scale ~/.config/wallpaper.png
+git clone https://github.com/LorezZ1000/dotfiles ;cd dotfiles; sudo apt update -y;sudo apt install dunst rofi picom feh -y;mv rofi dunst picom wallpaper.png ~/.config/ ;cp i3 ~/.config/i3;feh --bg-scale ~/.config/wallpaper.png;cd ~/.config/scripts; chmod +x *; cd; clear
 ```
 <a>dependences:</a>
 ```
