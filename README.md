@@ -1,6 +1,6 @@
 # MY I3WM CONFIG FILES
 
-<img src="https://i.postimg.cc/MGSvP3F2/sayonara.png" width="700" height="400">
+<img src="https://i.postimg.cc/MGSvP3F2/sayonara.png" width="700" height="400" style="border-radius:20%;">
 
 <a>copy and paste command:</a>
 ```
