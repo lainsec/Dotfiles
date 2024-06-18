@@ -4,7 +4,7 @@
 
 <a>copy and paste command:</a>
 ```
-git clone https://github.com/LorezZ1000/dotfiles ;cd dotfiles; sudo apt update -y;sudo apt install alacritty dunst rofi picom feh -y;sudo cp alacritty.yml /etc/xdg/alacritty/alacritty.yml;mv rofi dunst picom wallpaper.png ~/.config/ ;cp -rT i3 ~/.config/i3;feh --bg-scale ~/.config/wallpaper.png;cd ~/.config/scripts; chmod +x *; cd;rm -rf dotfiles; clear
+git clone https://github.com/lainsec/dotfiles ;cd dotfiles; sudo apt update -y;sudo apt install alacritty dunst rofi picom feh -y;sudo cp alacritty.yml /etc/xdg/alacritty/alacritty.yml;mv rofi dunst picom wallpaper.png ~/.config/ ;cp -rT i3 ~/.config/i3;feh --bg-scale ~/.config/wallpaper.png;cd ~/.config/scripts; chmod +x *; cd;rm -rf dotfiles; clear
 ```
 <a>dependences:</a>
 ```
